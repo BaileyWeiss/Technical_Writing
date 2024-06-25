@@ -10,10 +10,8 @@
 
 2. [Digital Health Trends in 2023](source/Digital_Health_Trends.pdf)
 
-3. [How to Increase Email Efficiency: User Guide](source/Email_Efficiency.pdf)
+3. [Customer Data Platforms in Retail: Is a CDP Right for You?](source/CDP_Article.pdf)
 
-4. [Customer Data Platforms in Retail: Is a CDP Right for You?](source/CDP_Article.pdf)
+4. [The Benefits of Digital Transformation in Healthcare](source/Digital_Transformation.pdf)
 
-5. [The Benefits of Digital Transformation in Healthcare](source/Digital_Transformation.pdf)
-
-6. [End-User Manual: Section 6 Gmail Templates](source/end_user.pdf)
+5. [End-User Manual: Section 6 Gmail Templates](source/end_user.pdf)
